@@ -3,25 +3,25 @@
 *Persönliche Daten*
 	
 
-Name:				*Marcel Uhlmann*
+Name:				*godmode*
 
-`Anschrift:`			_Lochhofstr. 4_
-				_78120 Furtwangen_
+`Anschrift:`			_godmode_
+				_999999 jhsahbdjs_
 
-* Geburtsdatum: 22.04.2001
+* Geburtsdatum: kj.kh.jlhl
 
-+ Geburtsort: Ehingen
++ Geburtsort: hdjahs
 
 - Staatsangehörigkeit: deutsch
 
 >	```javascript
 >	Familie:			
 >					Vater:		wasd wasd,
->								wasd
+>							wasd
 >					Mutter:		qwertz qwertz, 
->								qwertz
+>							qwertz
 >					Brüder:		k.a, 
->								k.a
+>							k.a
 >	```
 
 __Schulbildung/ Ausbildung__
@@ -34,6 +34,6 @@ seit 2019			_Hochschule Furtwangen_
 
 Sprachkenntnisse:		_Englisch_
 
-
+![test](https://github.com/mudfsf/Einkaufsliste/blob/testBranch/Ressources/test.jpg)
 
 :unamused:Furtwangen, November 2020
